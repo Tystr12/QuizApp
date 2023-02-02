@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">QuizApp</string>
+    <string name="choose_your_difficulty">Choose your difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="Hard" />
+    <string name="hard" />
+    <string name="hardb">hard</string>
 </resources>
